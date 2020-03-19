@@ -1,12 +1,6 @@
----
-layout: post
-title: Traveling and Living in Bali
----
+I"W4<!-- Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below). -->
 
-
-<!-- Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below). -->
-
-<!-- ![_config.yml]({{ site.baseurl }}/images/config.png) -->
+<!-- ![_config.yml](/la-buena-vida//images/config.png) -->
 <!-- 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub. -->
 
@@ -23,7 +17,7 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 <h4>Positives</h4>
 <p>The gym equipment is in great condition with one room dedicated to machines and then the top floor is an aerobic room.</p>
 <p>The staff are really friendly and make you feel welcome!</p>
-<p>Have 3 classes on a day, at 8.30, 9.30 and 6pm which consist of yoga, body combat, step up, fit cardio and more.</p> 
+<p>Have 3 classes on a day, at 8.30, 9.30 and 6pm which consist of yoga, body combat, step up, fit cardio and more.</p>
 <p>When classes aren’t on members can still use the room which is filled with equipment.</p>
 <p>In the spa the sauna and ice bath are good</p>
 
@@ -49,7 +43,7 @@ Areas of canggu - the short cut, berawa, batu bolong, perenan beach, echo beach.
         <p>Finn's Beach club is a cool place to hangout in the day and in the evening</p>
         <p>They offer a host of options depending on what you are looking for ranging from single sun loungers (650k Rupiah / 36£ GBP if booked in advance 750k Rupiah / 41£ GBP on the door) to Day Beds (2.6million Rupiah / 145£ GBP) VIP Day Beds (3million Rupiah / 166£ GBP)</p>
         <p>NOTE: All money paid to reserve in advance or on the door is then credited to the punter to spend on Food and Drinks at Finn's</p>
-    <li><a href="https://labrisabali.com/">La Brisa</a></li>
+    <li><a href="https://labrisabali.com/">La Brisa</a></li> -
     <p>La Brisa is easy to find, the entrance is on the right as your drive towards Echo Beach, drive into the entrance and go all the way to the end and find a place to park your scooter</p>
     <p>The security on the door will check your bags and admit you, they were not strict on taking water into the venue, however, anything else will be prohibited. Once inside you can expect to be welcomed by a rustic, beach hut and bean bag vibes, where the waiters are ready to take you to any available beach huts, bean bags or seats, there are 2 pools, the main pool and the pool behind the decking which consists of 3 interconnected pools.</p>
     <p>There is NO Entrance Fee and the drinks are reasonably priced, La Brisa also overlooks some surf breaks and you can enjoy a drink whilst watching the Canggu surfers tear it up with the sun beaming down - just remember to stay hydrated!</p> 
@@ -130,3 +124,5 @@ Town is developing, not much going on. Only a handful of restaurants to choose f
 In town there is molas cafe where we spent most of our time as it had good WiFi, a pool and a good menu! 
 We opted for a day trip, couldn’t recommend seek Sophie enough, amazing communication on WhatsApp with an advisor to answer our questions throughout the booking process. they picked us up from our hotel in the morning however we didn’t get transport back to our hotel after the trip and that was supposed to be included so I would definitely confirm a return journey with them; we got off the boat confused as to where to go and had to Batar with guys on motorbikes outside the port who were eager to offer us a lift, all of who had no idea where our hotel was and our phones were dead so felt a bit hopeless. Finally someone knew where it was and hurrah we were on our way after a long day! it happened to be only 2 minutes away. It would’ve been helpful if our phones were charged so we knew - highly recommend getting a portable charger 
 To make your trip more enjoyable we would recommend spending that little bit more in accommodation. Due to our budget we opted to stay at ... which was cheap but cane with a lot of faults such as smelly bathroom/shower room, bed sheets smelling etc. When we were looking for accommodation the nicer, better value for money  was booked up so make sure you book 3-5 weeks in advanced, especially in the busier season.
+</li></li></ul></p></p>
+:ET

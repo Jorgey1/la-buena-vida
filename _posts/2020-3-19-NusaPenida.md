@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Traveling and Living in Bali
+title: Weekend Trip to Nusa Penida
 ---
 
 
@@ -49,10 +49,7 @@ Areas of canggu - the short cut, berawa, batu bolong, perenan beach, echo beach.
         <p>Finn's Beach club is a cool place to hangout in the day and in the evening</p>
         <p>They offer a host of options depending on what you are looking for ranging from single sun loungers (650k Rupiah / 36£ GBP if booked in advance 750k Rupiah / 41£ GBP on the door) to Day Beds (2.6million Rupiah / 145£ GBP) VIP Day Beds (3million Rupiah / 166£ GBP)</p>
         <p>NOTE: All money paid to reserve in advance or on the door is then credited to the punter to spend on Food and Drinks at Finn's</p>
-    <li><a href="https://labrisabali.com/">La Brisa</a></li>
-    <p>La Brisa is easy to find, the entrance is on the right as your drive towards Echo Beach, drive into the entrance and go all the way to the end and find a place to park your scooter</p>
-    <p>The security on the door will check your bags and admit you, they were not strict on taking water into the venue, however, anything else will be prohibited. Once inside you can expect to be welcomed by a rustic, beach hut and bean bag vibes, where the waiters are ready to take you to any available beach huts, bean bags or seats, there are 2 pools, the main pool and the pool behind the decking which consists of 3 interconnected pools.</p>
-    <p>There is NO Entrance Fee and the drinks are reasonably priced, La Brisa also overlooks some surf breaks and you can enjoy a drink whilst watching the Canggu surfers tear it up with the sun beaming down - just remember to stay hydrated!</p> 
+    <li><a href="https://labrisabali.com/">La Brisa</a></li> - is the easier beach club to get into without 
 - The lawn 
 - The beach has chilled bars along the front where you can sit on a bean bag and have a drink or a bite to eat 
 - Potato beach club - in seminyak 
