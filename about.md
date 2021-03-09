@@ -10,6 +10,8 @@ Some information about you!
 
 A place to include any other types of information that you'd like to include about yourself.
 
+We created a Bali Blog in order for people to gain knowledge before / during a trip to the Island of the Gods.
+
 ### Contact me
 
 [email@domain.com](mailto:email@domain.com)
